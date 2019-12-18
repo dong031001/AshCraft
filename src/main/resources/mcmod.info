@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ashcraft",
+  "name": "Ashcraft",
+  "description": "Ashcraft, added things related to ashes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dong031001"],
+  "credits": "ET-Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
